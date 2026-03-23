@@ -142,3 +142,4 @@
 /Users/tammyyle/CSharp/BankingApp/backend/BankingApp.WebApi/bin/Debug/net10.0/Swashbuckle.AspNetCore.Swagger.dll
 /Users/tammyyle/CSharp/BankingApp/backend/BankingApp.WebApi/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/tammyyle/CSharp/BankingApp/backend/BankingApp.WebApi/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/tammyyle/CSharp/BankingApp/backend/BankingApp.WebApi/obj/Debug/net10.0/BankingApp.WebApi.sourcelink.json
