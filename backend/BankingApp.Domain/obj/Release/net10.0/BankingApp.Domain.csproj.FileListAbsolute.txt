@@ -1,0 +1,11 @@
+/Users/tammyyle/C#/BankingApp/backend/BankingApp.Domain/bin/Release/net10.0/BankingApp.Domain.deps.json
+/Users/tammyyle/C#/BankingApp/backend/BankingApp.Domain/bin/Release/net10.0/BankingApp.Domain.dll
+/Users/tammyyle/C#/BankingApp/backend/BankingApp.Domain/bin/Release/net10.0/BankingApp.Domain.pdb
+/Users/tammyyle/C#/BankingApp/backend/BankingApp.Domain/obj/Release/net10.0/BankingApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tammyyle/C#/BankingApp/backend/BankingApp.Domain/obj/Release/net10.0/BankingApp.Domain.AssemblyInfoInputs.cache
+/Users/tammyyle/C#/BankingApp/backend/BankingApp.Domain/obj/Release/net10.0/BankingApp.Domain.AssemblyInfo.cs
+/Users/tammyyle/C#/BankingApp/backend/BankingApp.Domain/obj/Release/net10.0/BankingApp.Domain.csproj.CoreCompileInputs.cache
+/Users/tammyyle/C#/BankingApp/backend/BankingApp.Domain/obj/Release/net10.0/BankingApp.Domain.dll
+/Users/tammyyle/C#/BankingApp/backend/BankingApp.Domain/obj/Release/net10.0/refint/BankingApp.Domain.dll
+/Users/tammyyle/C#/BankingApp/backend/BankingApp.Domain/obj/Release/net10.0/BankingApp.Domain.pdb
+/Users/tammyyle/C#/BankingApp/backend/BankingApp.Domain/obj/Release/net10.0/ref/BankingApp.Domain.dll

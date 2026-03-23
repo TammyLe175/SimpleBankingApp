@@ -1,0 +1,6 @@
+@BankingApp.WebApi_HostAddress = http://localhost:5226
+
+GET {{BankingApp.WebApi_HostAddress}}/api/accounts
+Accept: application/json
+
+###
