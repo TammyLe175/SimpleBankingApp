@@ -6,9 +6,17 @@ import {
   Transaction,
 } from "@/lib/types";
 
-const apiBaseUrl = process.env.NEXT_PUBLIC_API_BASE_URL ?? "/api-proxy";
+const apiBaseUrl =
+  process.env.NEXT_PUBLIC_API_BASE_URL ??
+  (process.env.NODE_ENV === "development" ? "http://localhost:5226" : "");
 
 async function request<T>(path: string, init?: RequestInit): Promise<T> {
+  if (!apiBaseUrl) {
+    throw new Error(
+      "NEXT_PUBLIC_API_BASE_URL is not configured. Set it in frontend/.env.local and restart the frontend.",
+    );
+  }
+
   const response = await fetch(`${apiBaseUrl}${path}`, {
     ...init,
     headers: {
